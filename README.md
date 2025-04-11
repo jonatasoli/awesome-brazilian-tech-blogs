@@ -11,3 +11,5 @@ Blogs feitos por pessoas reais e vale a pena seguir!
 [Regis Santos](https://www.dicas-de-django.com.br/)
 
 [Lucas Cezimbra](https://cezimbra.me/)
+
+[Helio Loureiro](https://helio.loureiro.eng.br/)
