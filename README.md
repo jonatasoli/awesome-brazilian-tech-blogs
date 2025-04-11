@@ -13,3 +13,5 @@ Blogs feitos por pessoas reais e vale a pena seguir!
 [Lucas Cezimbra](https://cezimbra.me/)
 
 [Helio Loureiro](https://helio.loureiro.eng.br/)
+
+[Renato Lond](https://lond.com.br/)
