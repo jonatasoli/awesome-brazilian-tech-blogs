@@ -15,3 +15,17 @@ Blogs feitos por pessoas reais e vale a pena seguir!
 [Helio Loureiro](https://helio.loureiro.eng.br/)
 
 [Renato Lond](https://lond.com.br/)
+
+[Fox tech world](https://foxtechworld.github.io/)
+
+[João Carlos Hakaga](https://weblog.hagaka.me/)
+
+[Marcelo Campos](https://marcelocampos.cc/)
+
+[Mateus F.](https://mateusf.com/blog)
+
+[Bear Blog](https://guites.bearblog.dev/blog/)
+
+[Jutty](https://blog.jutty.dev/pt/)
+
+[Aprates](https://aprates.dev/pt-br/)
