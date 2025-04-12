@@ -3,9 +3,8 @@
 > Blogs técnicos brasileiros feitos por pessoas reais e que valem a pena seguir!
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/seuusuario/awesome-brazilian-tech-blogs?style=for-the-badge" alt="Stars">
-  <img src="https://img.shields.io/github/forks/seuusuario/awesome-brazilian-tech-blogs?style=for-the-badge" alt="Forks">
-  <img src="https://img.shields.io/github/issues/seuusuario/awesome-brazilian-tech-blogs?style=for-the-badge" alt="Issues">
+  <img src="https://img.shields.io/github/stars/jonatasoli/awesome-brazilian-tech-blogs?style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/github/forks/jonatasoli/awesome-brazilian-tech-blogs?style=for-the-badge" alt="Forks">
 </div>
 
 ## 📚 Lista de Blogs
@@ -36,8 +35,6 @@ Contribuições são bem-vindas! Siga esses passos:
 2. Adicione o blog seguindo o mesmo formato da tabela
 3. Inclua uma screenshot (4:3) na pasta `previews`
 4. Envie um Pull Request
-
-Ou [abra uma issue](https://github.com/seuusuario/awesome-brazilian-tech-blogs/issues) para sugerir melhorias!
 
 ## 📜 Licença
 
