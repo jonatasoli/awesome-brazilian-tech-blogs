@@ -29,3 +29,5 @@ Blogs feitos por pessoas reais e vale a pena seguir!
 [Jutty](https://blog.jutty.dev/pt/)
 
 [Aprates](https://aprates.dev/pt-br/)
+
+[Rocketseat Blog](https://www.rocketseat.com.br/blog)
