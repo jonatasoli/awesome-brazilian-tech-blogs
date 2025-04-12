@@ -1,118 +1,44 @@
-# 🇧🇷 Awesome Brazilian Tech Blogs
+# 🇧🇷 Awesome Brazilian Tech Blogs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<div align="center" style="margin: 20px;">
+> Blogs técnicos brasileiros feitos por pessoas reais e que valem a pena seguir!
 
-Blogs feitos por pessoas reais e vale a pena seguir!
-
+<div align="center">
+  <img src="https://img.shields.io/github/stars/seuusuario/awesome-brazilian-tech-blogs?style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/github/forks/seuusuario/awesome-brazilian-tech-blogs?style=for-the-badge" alt="Forks">
+  <img src="https://img.shields.io/github/issues/seuusuario/awesome-brazilian-tech-blogs?style=for-the-badge" alt="Issues">
 </div>
 
-## 📚 Lista
+## 📚 Lista de Blogs
 
-<div align="center" style="margin: 20px;">
-  <a href="https://blog.dunossauro.com/">
-    <img src="previews/preview-1.png" alt="Dunossauro" style="border-radius: 10px; width: 300px;"><br>
-    1️⃣ Dunossauro
-  </a>
-</div>
+| # | Blog | Autor | Preview |
+|---|------|-------|---------|
+| 1 | [Dunossauro](https://blog.dunossauro.com/) | Dunossauro | <img src="previews/preview-1.png" alt="Dunossauro" width="200"> |
+| 2 | [Cuducos](https://cuducos.me/blog/) | Eduardo Cuducos | <img src="previews/preview-2.png" alt="Cuducos" width="200"> |
+| 3 | [Bruno Rocha](https://rochacbruno.com/) | Bruno Rocha | <img src="previews/preview-3.png" alt="Bruno Rocha" width="200"> |
+| 4 | [Dicas de Django](https://www.dicas-de-django.com.br/) | Regis Santos | <img src="previews/preview-4.png" alt="Regis Santos" width="200"> |
+| 5 | [Lucas Cezimbra](https://cezimbra.me/posts) | Lucas Cezimbra | <img src="previews/preview-5.png" alt="Lucas Cezimbra" width="200"> |
+| 6 | [Helio Loureiro](https://helio.loureiro.eng.br/) | Helio Loureiro | <img src="previews/preview-6.png" alt="Helio Loureiro" width="200"> |
+| 7 | [Renato Lond](https://lond.com.br/) | Renato Lond | <img src="previews/preview-7.png" alt="Renato Lond" width="200"> |
+| 8 | [Fox Tech World](https://foxtechworld.github.io/) | Arthur Augusto | <img src="previews/preview-8.png" alt="Fox Tech World" width="200"> |
+| 9 | [João Carlos Hakaga](https://weblog.hagaka.me/) | João Carlos Hakaga | <img src="previews/preview-9.png" alt="João Carlos Hakaga" width="200"> |
+| 10 | [Marcelo Campos](https://marcelocampos.cc/) | Marcelo Campos | <img src="previews/preview-10.png" alt="Marcelo Campos" width="200"> |
+| 11 | [Mateus F.](https://mateusf.com/blog) | Mateus Felipe | <img src="previews/preview-11.png" alt="Mateus F." width="200"> |
+| 12 | [Bear Blog - Guites](https://guites.bearblog.dev/blog/) | Guites | <img src="previews/preview-12.png" alt="Guites" width="200"> |
+| 13 | [Jutty](https://blog.jutty.dev/pt/) | Jutty | <img src="previews/preview-13.png" alt="Jutty" width="200"> |
+| 14 | [Aprates](https://aprates.dev/pt-br/) | Antonio Aprates | <img src="previews/preview-14.png" alt="Aprates" width="200"> |
+| 15 | [Jeiel Blog](https://jeiel0rbit.github.io/jeiel-blog/) | Jeiel Miranda | <img src="previews/preview-15.png" alt="Jeiel Blog" width="200"> |
 
-<div align="center" style="margin: 20px;">
-  <a href="https://cuducos.me/blog/">
-    <img src="previews/preview-2.png" alt="Cuducos" style="border-radius: 10px; width: 300px;"><br>
-    2️⃣ Cuducos
-  </a>
-</div>
+## 🤝 Como Contribuir
 
-<div align="center" style="margin: 20px;">
-  <a href="https://rochacbruno.com/">
-    <img src="previews/preview-3.png" alt="Bruno Rocha" style="border-radius: 10px; width: 300px;"><br>
-    3️⃣ Bruno Rocha
-  </a>
-</div>
+Contribuições são bem-vindas! Siga esses passos:
 
-<div align="center" style="margin: 20px;">
-  <a href="https://www.dicas-de-django.com.br/">
-    <img src="previews/preview-4.png" alt="Regis Santos" style="border-radius: 10px; width: 300px;"><br>
-    4️⃣ Regis Santos
-  </a>
-</div>
+1. Faça um Fork do projeto
+2. Adicione o blog seguindo o mesmo formato da tabela
+3. Inclua uma screenshot (4:3) na pasta `previews`
+4. Envie um Pull Request
 
-<div align="center" style="margin: 20px;">
-  <a href="https://cezimbra.me/posts">
-    <img src="previews/preview-5.png" alt="Lucas Cezimbra" style="border-radius: 10px; width: 300px;"><br>
-    5️⃣ Lucas Cezimbra
-  </a>
-</div>
+Ou [abra uma issue](https://github.com/seuusuario/awesome-brazilian-tech-blogs/issues) para sugerir melhorias!
 
-<div align="center" style="margin: 20px;">
-  <a href="https://helio.loureiro.eng.br/">
-    <img src="previews/preview-6.png" alt="Helio Loureiro" style="border-radius: 10px; width: 300px;"><br>
-    6️⃣ Helio Loureiro
-  </a>
-</div>
+## 📜 Licença
 
-<div align="center" style="margin: 20px;">
-  <a href="https://lond.com.br/">
-    <img src="previews/preview-7.png" alt="Renato Lond" style="border-radius: 10px; width: 300px;"><br>
-    7️⃣ Renato Lond
-  </a>
-</div>
-
-<div align="center" style="margin: 20px;">
-  <a href="https://foxtechworld.github.io/">
-    <img src="previews/preview-8.png" alt="Fox Tech World" style="border-radius: 10px; width: 300px;"><br>
-    8️⃣ Fox Tech World
-  </a>
-</div>
-
-<div align="center" style="margin: 20px;">
-  <a href="https://weblog.hagaka.me/">
-    <img src="previews/preview-9.png" alt="João Carlos Hakaga" style="border-radius: 10px; width: 300px;"><br>
-    9️⃣ João Carlos Hakaga
-  </a>
-</div>
-
-<div align="center" style="margin: 20px;">
-  <a href="https://marcelocampos.cc/">
-    <img src="previews/preview-10.png" alt="Marcelo Campos" style="border-radius: 10px; width: 300px;"><br>
-    1️⃣0️⃣ Marcelo Campos
-  </a>
-</div>
-
-<div align="center" style="margin: 20px;">
-  <a href="https://mateusf.com/blog">
-    <img src="previews/preview-11.png" alt="Mateus F." style="border-radius: 10px; width: 300px;"><br>
-    1️⃣1️⃣ Mateus F.
-  </a>
-</div>
-
-<div align="center" style="margin: 20px;">
-  <a href="https://guites.bearblog.dev/blog/">
-    <img src="previews/preview-12.png" alt="Guites" style="border-radius: 10px; width: 300px;"><br>
-    1️⃣2️⃣ Bear Blog - Guites
-  </a>
-</div>
-
-<div align="center" style="margin: 20px;">
-  <a href="https://blog.jutty.dev/pt/">
-    <img src="previews/preview-13.png" alt="Jutty" style="border-radius: 10px; width: 300px;"><br>
-    1️⃣3️⃣ Jutty
-  </a>
-</div>
-
-<div align="center" style="margin: 20px;">
-  <a href="https://aprates.dev/pt-br/">
-    <img src="previews/preview-14.png" alt="Aprates" style="border-radius: 10px; width: 300px;"><br>
-    1️⃣4️⃣ Aprates
-  </a>
-</div>
-
-<div align="center" style="margin: 20px;">
-  <a href="https://jeiel0rbit.github.io/jeiel-blog/">
-    <img src="previews/preview-15.png" alt="Jeiel Blog" style="border-radius: 10px; width: 300px;"><br>
-    1️⃣5️⃣ Jeiel Blog
-  </a>
-</div>
-
----
-
-Quer contribuir? Abra um [Pull Request](https://github.com/seuusuario/awesome-brazilian-tech-blogs/pulls).
+Este projeto está licenciado sob a licença GPLv3- veja o arquivo [LICENSE](LICENSE) para detalhes.
