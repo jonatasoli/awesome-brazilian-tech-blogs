@@ -26,6 +26,7 @@
 | 13 | [Jutty](https://blog.jutty.dev/pt/) | Jutty | <img src="previews/preview-13.png" alt="Jutty" width="200"> |
 | 14 | [Aprates](https://aprates.dev/pt-br/) | Antonio Aprates | <img src="previews/preview-14.png" alt="Aprates" width="200"> |
 | 15 | [Jeiel Blog](https://jeiel0rbit.github.io/jeiel-blog/) | Jeiel Miranda | <img src="previews/preview-15.png" alt="Jeiel Blog" width="200"> |
+| 16 | [Jônatas Oliveira](https://blog.jonatasoliveira.dev/) | Jônatas Oliveira | <img src="previews/preview-16.png" alt="Jonatas Blog" width="200"> |
 
 ## 🤝 Como Contribuir
 
